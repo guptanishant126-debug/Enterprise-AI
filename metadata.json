@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI Enterprise — AI Workflow & Knowledge Platform",
+  "description": "Production-grade enterprise AI workflow automation and cross-departmental knowledge intelligence engine powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
